@@ -1,0 +1,6 @@
+{
+  "name": "VELARO CARS",
+  "description": "Plateforme unifiée de location automobile avec espaces Super Admin, Agences Pro et Locataires, suivi GPS et gestion de flotte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
